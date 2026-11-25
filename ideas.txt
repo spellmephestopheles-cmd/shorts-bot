@@ -1,0 +1,38 @@
+Explained. - 5 Short ideas for 2026-11-25
+
+1. [TOPICAL] One Corrupted File Grounded Every US Flight
+Paradox: The most advanced air system on Earth was stopped by a file nobody was watching.
+Tension: Jan 2023: 11,000+ flights delayed. No hack. No storm. Pilots had no way to get warnings.
+Pivot: You see, the NOTAM safety-alert database had a damaged file, and the backup copied the same damage.
+Twist: The fix was the oldest trick in IT: turn it off and on again. After the backup was also broken.
+Virality: 4.4/5 (strongest: relatable "tech fails us" fear + timely after this month's outages)
+
+2. [TOPICAL] The World's Most Valuable Chip Company Makes Zero Chips
+Paradox: Nvidia is worth trillions, and it has never built one chip.
+Tension: Investors panic over its earnings. Whole economies hinge on it. Yet no factory.
+Pivot: You see, Nvidia only draws the design. A company in Taiwan prints it.
+Twist: That printing plant sits on an island that is a few minutes from a major fault line. Everything rests on one place.
+Virality: 4.3/5 (strongest: curiosity gap + news timeliness)
+
+3. [INDIA/ASIA] India Reached Mars for Less Than a Hollywood Movie
+Paradox: A country sent a probe to Mars for less money than the film Gravity.
+Tension: Budget about $74 million. First Asian nation to orbit Mars. First attempt, ever.
+Pivot: You see, ISRO could not afford a big rocket, so it used Earth's gravity like a slingshot, circling six times before leaving.
+Twist: It was built to last 6 months. It kept working for about 8 years.
+Virality: 4.5/5 (strongest: instant underdog hook, universal money comparison)
+
+4. [INDIA/ASIA] Japan's Train Company Apologized For Leaving 20 Seconds Early
+Paradox: A train left 20 seconds early. The company issued a public apology.
+Tension: Average delays are measured in seconds. Drivers point and call out every signal. Some riders ask for delay slips.
+Pivot: You see, in Japan a late train can make people miss work, so the apology was the system working.
+Twist: The slip is real: it's a proof-of-delay note for employers, and it exists because lateness is that rare.
+Virality: 4.2/5 (strongest: absurd hook, highly shareable)
+
+5. [TOPICAL] Thanksgiving Turkey Does Not Make You Sleepy
+Paradox: Everyone blames the turkey for the nap. The turkey is innocent.
+Tension: It does contain tryptophan. So does chicken. So does cheese.
+Pivot: You see, the real culprit is a huge meal that sends blood sugar up and then crashing down.
+Twist: Eat the same turkey as a small salad and you will not fall asleep. The nap was your plate, not the bird.
+Virality: 4.0/5 (strongest: myth-busting + Thanksgiving timing)
+
+Reply with a number (1-5) to get the full script + the 3 best video styles.
